@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="26.2.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.2">
   <diagram name="第 1 页" id="daHZGbg-cNCHT84qt2Ql">
-    <mxGraphModel>
+    <mxGraphModel dx="1190" dy="658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
+          <mxGeometry x="47" y="321" width="139" height="109.81" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=102.00000000000001;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="443.3111831820431" y="368.53710678118665" as="sourcePoint" />
+            <mxPoint x="611" y="369.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-2" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;rotation=-45;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="325" y="323.5" width="115" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-3" value="Nginx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="348" y="364" width="69" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="633" y="256" width="92.25" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-5" value="浏览器&lt;div&gt;Chrome&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="94.52" y="280" width="61" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-6" value="服务集群&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="631" y="180" width="66" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="633" y="379" width="92.25" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="238" width="121" height="291" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=100;entryDy=102.00000000000001;entryPerimeter=0;" edge="1" parent="1" source="BfeBLqkUjn1L_kAiex8r-8" target="BfeBLqkUjn1L_kAiex8r-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.231;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BfeBLqkUjn1L_kAiex8r-1" target="BfeBLqkUjn1L_kAiex8r-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="213" y="363" />
+              <mxPoint x="213" y="363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.678;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=15;exitDy=15;exitPerimeter=0;" edge="1" parent="1" source="BfeBLqkUjn1L_kAiex8r-2" target="BfeBLqkUjn1L_kAiex8r-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="322" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-18" value="请求静态资源/发送同源请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="164" y="328" width="165" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-19" value="路由匹配， 把同源请求打到不同的后端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="408" y="338" width="225" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-20" value="统一整合请求， 变为同源的响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="172" y="397" width="189" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BfeBLqkUjn1L_kAiex8r-21" value="各自返回相应数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="390" width="114" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
